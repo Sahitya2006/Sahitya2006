@@ -2,7 +2,7 @@
 Kallakuri Sahitya
 B.Tech ECE, Central University of Jammu 
 2025-2029
-Interested in Degital Design, Particle physics and Quantum computing
+Interested in Digital Design, Particle physics and Quantum computing
 
 # Skills
 Languages: C/C++, Python, MATLAB (learning Verilog), Qiskit
@@ -21,5 +21,5 @@ Tools: Multisim / ModelSim, Arduino/ESP32, Autodesk Fusion
 - Building quanutum circuits
 - Particle accelerators
 
-## Contact
+# Contact
 LinkedIn - https://www.linkedin.com/in/sahityakallakuri/
