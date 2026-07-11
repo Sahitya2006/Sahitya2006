@@ -1,16 +1,25 @@
-## Hi there 👋
+# ME
+Kallakuri Sahitya
+B.Tech ECE, Central University of Jammu 
+2025-2029
+Interested in Degital Design, Particle physics and Quantum computing
 
-<!--
-**Sahitya2006/Sahitya2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Skills
+Languages: C/C++, Python, MATLAB (learning Verilog), Qiskit
+Tools: Multisim / ModelSim, Arduino/ESP32, Autodesk Fusion
 
-Here are some ideas to get you started:
+# Featured Projects(Visit Pinned Repo)
+- [4-bit ALU in Verilog] — combinational logic design, verified with testbench
+  
+# Currently learning
+- Data analysis frameworks
+- Quantum Computing
+- VLSI and Computer Architecture
+- PCB Designing
+  
+# Working towards: 
+- Building quanutum circuits
+- Particle accelerators
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+LinkedIn - https://www.linkedin.com/in/sahityakallakuri/
