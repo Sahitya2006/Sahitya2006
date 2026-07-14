@@ -6,6 +6,7 @@ Interested in Digital Design, Particle physics and Quantum computing
 
 # Skills
 Languages: C/C++, Python, MATLAB (learning Verilog), Qiskit
+
 Tools: Multisim / ModelSim, Arduino/ESP32, Autodesk Fusion
 
 # Featured Projects(Visit Pinned Repo)
