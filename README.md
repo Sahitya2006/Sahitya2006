@@ -15,11 +15,11 @@ Tools: Multisim / ModelSim, Arduino/ESP32, Autodesk Fusion
 # Currently learning
 - Data analysis frameworks
 - Quantum Computing
-- VLSI and Computer Architecture
+- Antenna designing and communication systems
 - PCB Designing
   
 # Working towards: 
-- Building quanutum circuits
+- Building quantum circuits
 - Particle accelerators
 
 # Contact
