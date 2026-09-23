@@ -2,21 +2,25 @@
 Kallakuri Sahitya
 B.Tech ECE, Central University of Jammu 
 2025-2029
-Interested in Digital Design, Particle physics and Quantum computing
+Interested in RF/microwave engineering, Particle physics and Quantum computing
 
 # Skills
-Languages: C/C++, Python, MATLAB (learning Verilog), Qiskit
+Languages: C/C++, Python, MATLAB, Qiskit
 
-Tools: Multisim / ModelSim, Arduino/ESP32, Autodesk Fusion
+Tools:
+Circuit designing- Multisim 
+Simualtion and control systems- Matlab 
+3D CAD - Fusion 360
+PCB designing- Altium Designer
 
 # Featured Projects(Visit Pinned Repo)
-- [4-bit ALU in Verilog] — combinational logic design, verified with testbench
   
 # Currently learning
 - Data analysis frameworks
 - Quantum Computing
-- Antenna designing and communication systems
+- RF and Microwave 
 - PCB Designing
+- HEP
   
 # Working towards: 
 - Building quantum circuits
