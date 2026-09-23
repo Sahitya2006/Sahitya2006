@@ -1,8 +1,8 @@
 # ME
-Kallakuri Sahitya
-B.Tech ECE, Central University of Jammu 
-2025-2029
-Interested in RF/microwave engineering, Particle physics and Quantum computing
+## Kallakuri Sahitya
+## B.Tech ECE, Central University of Jammu 
+## 2025-2029
+### Interested in RF/microwave engineering, Particle physics and Quantum computing
 
 # Skills
 Languages: C/C++, Python, MATLAB, Qiskit
